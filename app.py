@@ -18,7 +18,7 @@ def local_css():
 local_css()
 
 # ✅ Add Logo at the Top
-st.image("logo1.png", width=150)
+st.image("logo1.png.jpg", width=150)
 
 st.title("📄 PDF, Image & Word Converter Tool")
 
